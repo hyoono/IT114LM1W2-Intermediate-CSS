@@ -63,7 +63,7 @@ Set more key frames between 0% and 100%. */
         -moz-transform: translateX(50px);
         -ms-transform: translateX(50px);
         -o-transform: translateX(50px);
-    }
+}
     50% {
         transform: translateX(100px);
         -webkit-transform: translateX(100px);
@@ -141,5 +141,5 @@ Set more key frames between 0% and 100%. */
 
 .todo-3-container button:hover {
     transform: translateY(-5px);
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 2px 4px #000000;
 }
